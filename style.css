@@ -1,0 +1,10 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+h2.Arms {
+    color: rebeccapurple;
+}
+h2.Legs {
+    color: rgb(29, 64, 29)
+}
